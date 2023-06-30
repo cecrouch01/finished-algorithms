@@ -1,4 +1,4 @@
-# <Finished Algorithms>
+# Finished Algorithms
 
 ## Description
 
@@ -8,10 +8,14 @@ This is to be used as a way to showcase what algorithms I have been practicing t
 
 Go to the link below to peruse the algorithms I have finished. 
 
+https://github.com/cecrouch01/finished-algorithms/tree/main/assets/js
+
 ## Usage
 
 Go to the repo link listed below and you will see a list of algorithms similar to the picture attached to this section.
-![A picture of my personal GitHub Repository with algorithm folders displayed]()
+![A picture of my personal GitHub Repository with algorithm folders displayed](./assets/images/github.com_cecrouch01_finished-algorithms_tree_main_assets_js.png)
+
+https://github.com/cecrouch01/finished-algorithms/tree/main/assets/js
 
 ## Credits
 
