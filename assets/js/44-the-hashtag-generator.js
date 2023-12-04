@@ -9,10 +9,6 @@
 // If the input or the result is an empty string it must return false.
 
 function generateHashtag(str) {
-    if (str === '') {
-      return false;
-    }
-    console.log(str)
     const pattern = /(?:\s+|^)([a-z])/g;
     str = str.replace(pattern, function (match, group1) {
       return group1.toUpperCase();
